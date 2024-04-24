@@ -15,3 +15,12 @@ The following operations have been implemented:
 Here is a short video of demonstration:
 
 [The video is on YouTube! Note - File size was large.](https://www.youtube.com/watch?v=MCI3USxwat0&ab_channel=Bhanuprasanna)
+
+
+## Task 2
+
+For Task 2, I have worked with the ECG Fragments dataset and have built a classifier using CNN for classifying between fragments that contain a Ventricular Flutter or Fibrillation and the ones that do not.
+
+The accuracy achieved by CNN on Test data is 94.48%.
+
+
