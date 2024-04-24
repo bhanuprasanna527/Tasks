@@ -14,5 +14,5 @@ The following operations have been implemented:
 
 Here is a short video of demonstration:
 
-
+![][Project Video.mp4]
 
