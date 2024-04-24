@@ -39,7 +39,7 @@ The below are the Accuracy, Precision, Recall, F1-score, and ROC-AUC results obt
 
 ___
 
-I have also implemented the same model using K Fold Cross Validation technique which is used to find the best performing model by iteratively sending a portion of the data. This helps to overcome the problem of Overfitting.
+I have also implemented the same model using K Fold Cross Validation technique which is used to find the best performing model by iteratively working on a portion of the data. This helps to overcome the problem of Overfitting and also assess and identify the best performing model.
 
 The results are as follows:
 
