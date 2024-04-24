@@ -21,6 +21,8 @@ Here is a short video of demonstration:
 
 For Task 2, I have worked with the ECG Fragments dataset and have built a classifier using CNN for classifying between fragments that contain a Ventricular Flutter or Fibrillation and the ones that do not.
 
-The accuracy achieved by CNN on Test data is 94.48%.
+The accuracy achieved by CNN on Test data is 94.48%. The training graphs are shown below:
+
+<img width="595" alt="Screenshot 2024-04-24 at 7 30 48 PM" src="https://github.com/bhanuprasanna527/Tasks/assets/63473951/dd7fb22b-3f64-4d0c-9644-6653551eb514">
 
 
