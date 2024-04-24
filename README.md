@@ -14,5 +14,4 @@ The following operations have been implemented:
 
 Here is a short video of demonstration:
 
-![][Project Video.mp4]
-
+[The video is on YouTube! Note - File size was large.](https://www.youtube.com/watch?v=MCI3USxwat0&ab_channel=Bhanuprasanna)
