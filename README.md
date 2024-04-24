@@ -25,4 +25,10 @@ The accuracy achieved by CNN on Test data is 94.48%. This accuracy was achieved 
 
 <img width="595" alt="Screenshot 2024-04-24 at 7 30 48 PM" src="https://github.com/bhanuprasanna527/Tasks/assets/63473951/dd7fb22b-3f64-4d0c-9644-6653551eb514">
 
+The Classification report on the Test Data is as follows:
 
+<img width="454" alt="Screenshot 2024-04-24 at 7 41 35 PM" src="https://github.com/bhanuprasanna527/Tasks/assets/63473951/82bdfb20-f068-4947-b0da-a2108f2c9256">
+
+The below Accuracy, Precision, Recall, F1-score, and ROC-AUC are obtained from the model:
+
+<img width="253" alt="Screenshot 2024-04-24 at 7 41 51 PM" src="https://github.com/bhanuprasanna527/Tasks/assets/63473951/7c301ab8-13fe-4dae-8641-ddb860466bb4">
