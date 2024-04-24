@@ -1,4 +1,6 @@
 # Tasks
+
+All the notebooks, files and data regarding the tasks are present in this git repository.
  
 ## Task 1
 
