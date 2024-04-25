@@ -31,6 +31,8 @@ The accuracy achieved by CNN on Test data is <b>94.48%</b>. This accuracy was ac
 
 The Classification report on the Test Data is as follows:
 
+Here 1 is VFL/VF, 0 is NOT VFL/VF
+
 <img width="454" alt="Screenshot 2024-04-24 at 7 41 35 PM" src="https://github.com/bhanuprasanna527/Tasks/assets/63473951/82bdfb20-f068-4947-b0da-a2108f2c9256">
 
 The below are the Accuracy, Precision, Recall, F1-score, and ROC-AUC results obtained from the model:
